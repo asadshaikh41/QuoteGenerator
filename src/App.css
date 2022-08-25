@@ -4,11 +4,8 @@
 
 
 .container{
-padding: 20px;
 position: relative;
 top: 100px;
-left: 25%;
 box-shadow: 20px;
-
+left: 25%;
 }
-

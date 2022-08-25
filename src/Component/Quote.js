@@ -26,10 +26,10 @@ const Quote = () => {
   const { content, author } = quotes;
 
   return (
-    <div >
+    <div className="hero">
       <div className="container" >
         <div className="row ">
-          <div className=" col-4">
+          <div className=" col-sm-4">
           <div class="card text-center">
  
   <div class="card-body">
